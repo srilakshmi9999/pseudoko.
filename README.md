@@ -1,0 +1,2 @@
+# pseudoko.
+python
